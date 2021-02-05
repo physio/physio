@@ -22,8 +22,8 @@ At that time, ICT was only my hobby, but since then I decided to transform into 
 </p>
 
 <a href="https://github.com/eppak">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppak&langs_count=8&layout=compact" width="48%"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physio&langs_count=8&layout=compact" width="48%"/>
 </a>
 <a href="https://github.com/eppak">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=eppak&hide=prs&count_private=true&show_icons=true"  width="48%" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=physio&hide=prs&count_private=true&show_icons=true"  width="48%" />
 </a>
