@@ -21,9 +21,9 @@ At that time, ICT was only my hobby, but since then I decided to transform into 
   Now i work as IT Project Manager with the love of development.
 </p>
 
-<a href="https://github.com/eppak">
+<a href="https://github.com/physio">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physio&langs_count=8&layout=compact" width="48%"/>
 </a>
-<a href="https://github.com/eppak">
+<a href="https://github.com/physio">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=physio&hide=prs&count_private=true&show_icons=true"  width="48%" />
 </a>
